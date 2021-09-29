@@ -1,0 +1,5 @@
+{
+	"ip":"SujitGamerYtServer.aternos.me",
+	"port": "11088",
+	"name": "afkbot"
+}
